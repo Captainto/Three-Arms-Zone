@@ -6,6 +6,7 @@ This is the judicial Arm of government in a Federal system of government as prac
 
 # Supreme Court
 The Supreme Court of Nigeria is the 3rd Arm of the government in a Federal system of government.
-This is the apax law/court of the nation.
+This is the apex law/court of the nation.
+with sub courts like High courts, magistrate courts, and other tradition and religious court system.
 
 and not to forget the amiable Eagle Square.
